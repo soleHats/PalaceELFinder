@@ -1,1 +1,0 @@
-java -jar palaceEL.jar
