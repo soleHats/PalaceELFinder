@@ -4,12 +4,11 @@ This will find palace early links by checking the UK site.
 
 
 ### Installation
-``
+
 - Download the jar file.
 - CD to the directory it's in.
 then run:
-
-- Java -jar palaceEL.jar``
+- Java -jar palaceEL.jar
 
 ## Todo List
 - [ ] File creation.
